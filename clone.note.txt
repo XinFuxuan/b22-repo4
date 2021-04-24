@@ -1,0 +1,5 @@
+I just created remote empty repo from github.com account by clicking on plus icon on top right corner 
+
+and cloned this repo by clicking on set up in github desktop and select the location and click on clone
+
+it clone the remote repo to our local  
